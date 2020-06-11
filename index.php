@@ -1,5 +1,6 @@
 <?php
 include_once "header.php";
-    echo "valami"."<br>";
+
+    echo "<br>"."ez az index"."<br>";
 
 ?>
