@@ -1,4 +1,4 @@
 <?php
-    echo "Ez a header";
+    echo "Ez a header"."<br>";
 
 ?>
