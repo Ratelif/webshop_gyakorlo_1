@@ -1,4 +1,0 @@
-mysql database name: webshop
-változtatás
-ez meg az
-tuti tipp
