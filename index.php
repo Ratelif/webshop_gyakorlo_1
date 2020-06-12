@@ -27,6 +27,6 @@ include_once "header.php";
 
 
 <?php
-    echo "ez a menu_keszites ág!";
+    echo "Ez a menu_keszites ág! Nem a master!";
 
 ?>
