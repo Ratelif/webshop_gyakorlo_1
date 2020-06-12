@@ -20,5 +20,7 @@ $x = 15;
 for ($i=0; $i < $x; $i++) { 
       echo "<a style='color:red;'>a változó aktuális értéke: ".$i."</a><br>";
 }  
+echo "<br>"." ez még bekerült!";
 echo "<br>"." Vége a php kódnak!";
+
 ?>
