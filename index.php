@@ -1,6 +1,10 @@
 <?php
 include_once "header.php";
 
-    echo "<br>"."ez az index"."<br>";
+   $x = 11;
+   for ($i=0; $i < $x; $i++) { 
+        echo "a változó aktuális értéke: ".$i."<br>";
+   }  
+
 
 ?>
