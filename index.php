@@ -23,4 +23,7 @@ for ($i=0; $i < $x; $i++) {
 echo "<br>"." ez még bekerült!";
 echo "<br>"." Vége a php kódnak!";
 
+echo "<br>"." master!";
+
 ?>
+
