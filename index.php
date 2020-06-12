@@ -23,8 +23,8 @@ for ($i=0; $i < $x; $i++) {
 echo "<br>"." ez még bekerült!";
 echo "<br>"." Vége a php kódnak!";
 
-echo "<br>"." master!";
-echo "<br>"." master folytatása!";
+echo "<br>"." menu_keszites!";
+echo "<br>"." menu_keszites folytatása!";
 
 ?>
 
