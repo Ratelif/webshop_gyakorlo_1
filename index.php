@@ -14,10 +14,12 @@ include_once "header.php";
     </div>
 </div>
 
+
 <?php
  $x = 11;
  for ($i=0; $i < $x; $i++) { 
       echo "a változó aktuális értéke: ".$i."<br>";
  }  
+
 
 ?>
