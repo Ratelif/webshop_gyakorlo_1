@@ -24,6 +24,7 @@ echo "<br>"." ez még bekerült!";
 echo "<br>"." Vége a php kódnak!";
 
 echo "<br>"." master!";
+echo "<br>"." master folytatása!";
 
 ?>
 
