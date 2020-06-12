@@ -25,6 +25,7 @@ echo "<br>"." Vége a php kódnak!";
 
 $z = 15;
 $elem = array('alap', 'kalap', 'kabat', 'bicikli');
+$new = "nemtudom mi a franc ez";
 
 ?>
 
