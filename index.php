@@ -28,5 +28,8 @@ echo "<br>"." master ág folytatása!";
 
 $x= "elemecske";
 
+$z = 15;
+$elem = array('alap', 'kalap', 'kabat', 'bicikli');
+
 ?>
 
