@@ -26,5 +26,8 @@ echo "<br>"." Vége a php kódnak!";
 echo "<br>"." menu_keszites!";
 echo "<br>"." menu_keszites folytatása!";
 
+$z = 15;
+$elem = array('alap', 'kalap', 'kabat', 'bicikli');
+
 ?>
 
