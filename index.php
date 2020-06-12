@@ -23,13 +23,8 @@ for ($i=0; $i < $x; $i++) {
 echo "<br>"." ez még bekerült!";
 echo "<br>"." Vége a php kódnak!";
 
-echo "<br>"." master ág!";
-echo "<br>"." master ág folytatása!";
-
-$x= "elemecske";
-
 $z = 15;
-$elem = array('alap', 'kalap', 'kabat', 'bicikli','teszta');
+$elem = array('alap', 'kalap', 'kabat', 'bicikli');
 
 ?>
 
