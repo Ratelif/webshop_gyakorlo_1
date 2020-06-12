@@ -21,4 +21,6 @@ for ($i=0; $i < $x; $i++) {
       echo "<a style='color:red;'>a változó aktuális értéke: ".$i."</a><br>";
 }  
 echo "<br>"." Vége a php kódnak!";
+echo "<br>"." master!";
+
 ?>
