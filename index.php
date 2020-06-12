@@ -16,9 +16,9 @@ include_once "header.php";
 
 <?php
 
- $x = 11;
+ $x = 15;
  for ($i=0; $i < $x; $i++) { 
-      echo "a változó aktuális értéke: ".$i."<br>";
+      echo "<a style='color:red;'>a változó aktuális értéke: ".$i."</a><br>";
  }  
 
 ?>
