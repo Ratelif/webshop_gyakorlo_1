@@ -23,12 +23,9 @@ for ($i=0; $i < $x; $i++) {
 echo "<br>"." ez még bekerült!";
 echo "<br>"." Vége a php kódnak!";
 
-<<<<<<< HEAD
 echo "<br>"." menu_keszites 2!";
 echo "<br>"." menu_keszites folytatása 2!";
 
-=======
->>>>>>> master
 $z = 15;
 $elem = array('alap', 'kalap', 'kabat', 'bicikli');
 $new = "nemtudom mi a franc ez";
