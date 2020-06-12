@@ -1,11 +1,5 @@
 <?php
 include_once "header.php";
-
-   $x = 11;
-   for ($i=0; $i < $x; $i++) { 
-        echo "a változó aktuális értéke: ".$i."<br>";
-   }  
-
 ?>
 
 
@@ -19,3 +13,11 @@ include_once "header.php";
         <img style="width: 40%;" class="rounded" src="pic/woman1.jpg" alt="">
     </div>
 </div>
+
+<?php
+ $x = 11;
+ for ($i=0; $i < $x; $i++) { 
+      echo "a változó aktuális értéke: ".$i."<br>";
+ }  
+
+?>
