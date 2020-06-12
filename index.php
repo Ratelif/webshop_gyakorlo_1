@@ -13,3 +13,9 @@ include_once "header.php";
         <img style="width: 40%;" class="rounded" src="pic/woman1.jpg" alt="">
     </div>
 </div>
+
+
+<?php
+    echo "ez a menu_keszites ág!";
+
+?>
