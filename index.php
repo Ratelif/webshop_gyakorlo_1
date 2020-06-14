@@ -26,7 +26,8 @@ echo "<br>"." Vége a php kódnak!";
 echo "<br>"." menu_keszites 2!";
 echo "<br>"." menu_keszites folytatása 2!";
 
-$z = 15;
+$z = 55;
+$y = "elemek";
 $elem = array('alap', 'kalap', 'kabat', 'bicikli');
 $new = "nemtudom mi a franc ez";
 
@@ -48,7 +49,7 @@ elseif ($new_1> 10) {
 else {
     echo "a megadott szám 10!";
 }
-
+echo "teszt folytatása";
 
 ?>
 
