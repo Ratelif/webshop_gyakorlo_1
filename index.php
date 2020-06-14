@@ -30,5 +30,25 @@ $z = 15;
 $elem = array('alap', 'kalap', 'kabat', 'bicikli');
 $new = "nemtudom mi a franc ez";
 
+
+
+
+
+
+
+
+echo "teszt kezdete";
+$new_1 = 5;
+if ($new_1 < 10) {
+    echo "a megadott szám kissebb mint 10!";
+}
+elseif ($new_1> 10) {
+    echo "a megadott szám nagyobb mint 10!";
+}
+else {
+    echo "a megadott szám 10!";
+}
+
+
 ?>
 
