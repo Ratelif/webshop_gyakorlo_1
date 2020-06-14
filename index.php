@@ -28,9 +28,9 @@ echo "<br>"." menu_keszites folytatása 2!";
 
 $z = 57;
 $y = "elemek";
-$valtozo01 = "elemecske";
+$valtozo01 = "elemecske_master";
 $elem = array('alap', 'kalap', 'kabat', 'bicikli', 'motor');
-$new = "nemtudom mi a franc ez";
+$new = "nemtudom mi a franc ez, master";
 
 
 
@@ -40,7 +40,7 @@ $new = "nemtudom mi a franc ez";
 
 
 echo "teszt kezdete";
-$new_1 = 5;
+$new_1 = 11;
 if ($new_1 < 10) {
     echo "a megadott szám kissebb mint 10!";
 }
