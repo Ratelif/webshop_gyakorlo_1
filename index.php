@@ -39,7 +39,7 @@ $new = "nemtudom mi a franc ez, master";
 
 
 
-echo "teszt kezdete új<br>";
+echo "teszt kezdete új a teszt ágról<br>";
 $new_1 = 13;
 if ($new_1 < 10) {
     echo "a megadott szám kissebb mint 10 !<br>";
