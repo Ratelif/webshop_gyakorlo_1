@@ -30,7 +30,6 @@ $z = 57;
 $y = "elemek";
 $valtozo01 = "elemecske";
 $elem = array('alap', 'kalap', 'kabat', 'bicikli', 'motor');
-$new = "nemtudom mi a franc ez, master";
 
 
 
