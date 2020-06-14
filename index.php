@@ -24,7 +24,7 @@ echo "<br>"." ez még bekerült!";
 echo "<br>"." Vége a php kódnak!";
 
 echo "<br>"." menu_keszites 2!";
-echo "<br>"." menu_keszites folytatása 2!";
+echo "<br>"." menu_keszites folytatása 2!<br>";
 
 $z = 57;
 $y = "elemek";
@@ -39,18 +39,18 @@ $new = "nemtudom mi a franc ez";
 
 
 
-echo "teszt kezdete";
-$new_1 = 5;
+echo "teszt kezdete<br>";
+$new_1 = 10;
 if ($new_1 < 10) {
-    echo "a megadott szám kissebb mint 10!";
+    echo "a megadott szám kissebb mint 10 !<br>";
 }
 elseif ($new_1> 10) {
-    echo "a megadott szám nagyobb mint 10!";
+    echo "a megadott szám nagyobb mint 10 !<br>";
 }
 else {
-    echo "a megadott szám 10!";
+    echo "a megadott szám 10 !<br>";
 }
-echo "teszt folytatása";
+echo "teszt folytatása....<br>";
 
 ?>
 
