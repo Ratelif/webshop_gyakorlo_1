@@ -28,6 +28,7 @@ echo "<br>"." menu_keszites folytatása 2!";
 
 $z = 55;
 $y = "elemek";
+$valtozo01 = "elemecske";
 $elem = array('alap', 'kalap', 'kabat', 'bicikli');
 $new = "nemtudom mi a franc ez";
 
