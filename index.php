@@ -50,7 +50,8 @@ elseif ($new_1> 10) {
 else {
     echo "a megadott szám 10 !<br>";
 }
-echo "teszt folytatása....<br>";
+echo "teszt folytatása.... a master ágról<br>";
+echo "1,2,3";
 
 ?>
 
