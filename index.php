@@ -26,10 +26,10 @@ echo "<br>"." Vége a php kódnak!";
 echo "<br>"." menu_keszites 2!";
 echo "<br>"." menu_keszites folytatása 2!";
 
-$z = 55;
+$z = 57;
 $y = "elemek";
 $valtozo01 = "elemecske";
-$elem = array('alap', 'kalap', 'kabat', 'bicikli');
+$elem = array('alap', 'kalap', 'kabat', 'bicikli', 'motor');
 $new = "nemtudom mi a franc ez";
 
 
