@@ -46,7 +46,7 @@ echo "<br>"." Vége a php kódnak!";
 
 echo "<br>"." menu_keszites 2!";
 echo "<br>"." menu_keszites folytatása 2!<br>";
-echo "szerkesztve online";
+echo "szerkesztve online"."<br>";
 $z = 57;
 $y = "elemek";
 $valtozo01 = "elemecske";
