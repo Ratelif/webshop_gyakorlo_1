@@ -37,7 +37,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 
 
-$x = 15;
+$x = 17;
 for ($i=0; $i < $x; $i++) { 
       echo "<a style='color:red;'>a változó aktuális értéke: ".$i."</a><br>";
 }  
@@ -46,7 +46,7 @@ echo "<br>"." Vége a php kódnak!";
 
 echo "<br>"." menu_keszites 2!";
 echo "<br>"." menu_keszites folytatása 2!<br>";
-
+echo "szerkesztve online";
 $z = 57;
 $y = "elemek";
 $valtozo01 = "elemecske";
